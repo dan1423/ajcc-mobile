@@ -4,11 +4,12 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
        "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy" : "gh-pages -d web",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+     "build": "expo build:web"
    
   },
   "dependencies": {

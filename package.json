@@ -1,6 +1,6 @@
 {
   "name": "ajcc-mobile",
-  "homepage": "https://dan1423.github.io/tnm-calculator/ajcc-mobile/",
+  "homepage": "https://dan1423.github.io/ajcc-mobile/",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
